@@ -1,2 +1,2 @@
 # teledocu
-plateforme de partage de vidéos instructives
+plateforme française de partage de vidéos instructives
